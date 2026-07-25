@@ -128,32 +128,5 @@
       </page>
 
 
-      <latex-image-preamble>
-    \usepackage{graphicx}
-    \usepackage{tikz, pgfplots}
-    \usepackage{tikz-3dplot} 
-    \usetikzlibrary{positioning,matrix,arrows}
-    \usetikzlibrary{shapes,decorations,shadows,fadings,patterns}
-    \usetikzlibrary{decorations.markings}
-
-    \newcommand{\Perp}{^{\perp}}
-\newcommand{\Det}{\text{det}}
-\newcommand{\Row}{\text{Row}}
-\newcommand{\Col}{\text{Col}}
-\newcommand{\Nul}{\text{Null}}
-\newcommand{\Null}{\text{Null}}
-\renewcommand{\dim}{\text{dim}}
-\newcommand{\proj}{\text{proj}}
-\newcommand{\Span}{\text{Span}}
-\newcommand{\Rank}{\text{rank}}
-
-\definecolor{DarkBlue}{rgb}{0.0,0.0,0.6} % 
-\definecolor{DarkGreen}{rgb}{0.0,0.3,0.0} % 
-\definecolor{DarkRed}{rgb}{0.6,0.0,0.0} % 
-
-\definecolor{Black}{rgb}{0.0,0.0,0.0} % 
-\definecolor{DarkBlue}{rgb}{0.0,0.1,0.3} % 
-\definecolor{Purple}{rgb}{0.4,0.0,0.4}
-
-  </latex-image-preamble>
+      
     </worksheet>
